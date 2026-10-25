@@ -13,6 +13,6 @@
     "Cross-Origin-Opener-Policy": "same-origin"
   },
   "mimeTypes": {
-    "ttf": "font/ttf"
+    ".ttf": "font/ttf"
   }
 }
